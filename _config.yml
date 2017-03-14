@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DOTS PUZZLE
+title: Tete's blog
 email: suport@tetegames.com
 description: Tete Games - Learn Best throught Hard Fun.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://tetegames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tetegames
 github_username:  tetegames
