@@ -17,10 +17,10 @@ title: DOTS PUZZLE
 email: suport@tetegames.com
 description: Dots Puzzle - Learn Best throught Hard Fun.
 A challenging and minimal dot to dot measure puzzle game with handcrafted levels and aesthetic design.
-baseurl: "dotspuzzle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tetegames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tetegames
-github_username:  longhan
+github_username:  tetegames
 
 # Build settings
 markdown: kramdown
